@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+h1{
+    font-size: 70px;
+    color: #9c948c;
+    margin-bottom: 10px;
+    
+}
+
+hr {
+    width: 100%;
+
+}
+
+
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.newgame {
+
+    height: 30px;
+    border: 1px solid brown;
+    background-color: bisque;
+    color: black;
+    font-weight: bold;
+
+
+}
+
+#board {
+
+    width: 400px;
+    height: 400px;
+
+    background-color: #cdc1b5;
+    border: 5px solid #bbada0;
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+
+}
+
+.tiles {
+    width: 90px;
+    height: 90px;
+    border: 4px solid #776e65;
+
+    font-size: 40px;
+
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.grid-size{
+    display: flex;
+    justify-content: space-between;
+
+ 
+ 
+    
+}
+
