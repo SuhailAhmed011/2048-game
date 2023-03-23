@@ -79,4 +79,25 @@ hr {
  
     
 }
+.x2{
+    background-color: #eee4da;
+    color: #727371;
+}
+.row{
+    height: 100%;
+    
+}
+
+.col{
+    border: 1px solid black;
+    height: 62px;
+    width: 60px;
+    border-radius: 3px;
+    margin: 2px;
+    text-align: center;
+    font-size: 50px;
+    background-color: #eee4da;
+}
+
+
 
